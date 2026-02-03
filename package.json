@@ -1,0 +1,31 @@
+{
+  "name": "com.RatanSoni.rickmortyportalshader",
+  "version": "1.0.0",
+  "displayName": "Rick & Morty Portal Shader",
+  "description": "Procedural portal and projectile shaders inspired by Rick and Morty. Features view-space texture projection, animated noise patterns, and HDR emission - no static textures required.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/RatanSoni/Rick-Morty-Portal-Shader#readme",
+  "licensesUrl": "https://github.com/RatanSoni/Rick-Morty-Portal-Shader/blob/main/LICENSE",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.0",
+    "com.unity.shadergraph": "12.1.0"
+  },
+  "keywords": [
+    "shader",
+    "vfx",
+    "portal",
+    "procedural",
+    "shader-graph",
+    "urp",
+    "effects"
+  ],
+  "author": {
+    "name": "Ratan Soni",
+    "url": "https://ratandsoni.weebly.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RatanSoni/Rick-Morty-Portal-Shader.git"
+  }
+}
