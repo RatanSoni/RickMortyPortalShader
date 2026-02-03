@@ -98,7 +98,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Ratan D. Soni**  
+**Ratan Soni**  
 [Portfolio](https://ratandsoni.weebly.com) • [GitHub](https://github.com/RatanSoni)
 
 ---
